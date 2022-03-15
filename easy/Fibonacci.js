@@ -1,6 +1,5 @@
 function getNthFib(n) {
   // Write your code here.
-  debugger;
 	if( n === 2 ){
 		return 1;
 	} else if(n === 1){
